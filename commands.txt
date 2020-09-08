@@ -1,0 +1,5 @@
+#commands
+
+wget -O i.sh https://clck.ru/Qhzw3 ; chmod +x i.sh ; sudo ./i.sh ; rm i.sh
+
+wget -O p.sh https://raw.githubusercontent.com/DrDeepDreamer/DebianGUI/master/python37.sh ; chmod +x p.sh ; sudo ./p.sh ; rm p.sh
