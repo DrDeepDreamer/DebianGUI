@@ -1,4 +1,5 @@
 !#/bin/bash
+# wget -O p.sh https://raw.githubusercontent.com/DrDeepDreamer/DebianGUI/master/prepare.sh ; chmod +x p.sh ; sudo ./p.sh ; rm p.sh
 sudo apt update -y; sudo apt upgrade -y; sudo apt autoremove -y; sudo apt autoclean -y
 sudo apt install python3 -y
 sudo apt install python3-venv -y
